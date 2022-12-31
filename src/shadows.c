@@ -1,4 +1,4 @@
-#include "header/main.h"
+#include "../include/main.h"
 
 void shadows(int row, int column)
 {

@@ -1,4 +1,4 @@
-#include "header/main.h"
+#include "../include/main.h"
 
 int get_value(char search_text[])
 {

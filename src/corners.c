@@ -1,4 +1,4 @@
-#include "header/main.h"
+#include "../include/main.h"
 
 void corners(int row, int column)
 {

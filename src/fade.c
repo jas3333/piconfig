@@ -1,4 +1,4 @@
-#include "header/main.h"
+#include "../include/main.h"
 
 void fading(int row, int column)
 {
